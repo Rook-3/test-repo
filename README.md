@@ -1,6 +1,2 @@
-# test-repo
-Test description
-
-This is a new edit from a local computer
-
-Another line!
+# My very first repo
+Today is a new day
